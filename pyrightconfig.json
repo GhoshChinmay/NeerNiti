@@ -1,0 +1,14 @@
+{
+    "venvPath": ".",
+    "venv": "venv",
+    "extraPaths": ["./backend"],
+    "executionEnvironments": [
+        {
+            "root": "ingestion",
+            "extraPaths": ["../backend"]
+        },
+        {
+            "root": "backend"
+        }
+    ]
+}

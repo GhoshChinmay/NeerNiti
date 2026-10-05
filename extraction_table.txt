@@ -1,0 +1,2853 @@
+--- Page 11 ---
+i 
+ 
+DYNAMIC GROUNDWATER RESOURCES OF UTTAR PRADESH 
+(As on March, 2020) 
+ 
+AT A GLANCE 
+UTTAR PRADESH (2020) 
+(in Bcm) 
+ Ground Water Recharge 
+  
+Recharge from rainfall  
+39.05 
+ Recharge from other sources 
+33.15 
+Total Annual  Ground Water 
+Recharge 
+72.20 
+Total Natural Discharges 
+5.32 
+Annual Extractable Ground Water Resource 
+66.88 
+Current Annual Ground Water 
+Extraction 
+Irrigation  
+41.29 
+Domestic  
+4.74 
+Total  
+46.03 
+Annual GW Allocation for Domestic Use  as on 2025  
+5.38 
+Net Ground Water Availability for future  use  
+21.53 
+Stage of Ground Water  Extraction (%)  
+68.83% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+      Note: 10 Urban cities (more than 10 lakh population) are also included in the Assessment Units 
+ 
+ 
+CATEGORIZATION (2020) 
+Total No. of Assessed Units 
+836
+544 
+177
+49 
+66 
+UTTAR PRADESH
+Safe 
+Semi-Critical
+Critical 
+Over-Exploited
+--- Page 50 ---
+ 
+36 | P a g e 
+ 
+ 
+Data Elements Used 
+Component 
+Parameter 
+Unit 
+Ground Water Extraction 
+Well Census 
+Number 
+Number of days 
+Number 
+Number of 
+Industrial Units 
+Number 
+ 
+Data computation methodology 
+Ground Water Extraction for Industrial Use can be calculated in 2 ways: 
+Unit Draft Method: Formula for Unit Draft Method is: 
+GEIND  = Unit Draft * Wells 
+Where, 
+Unit Draft = Unit Draft per well 
+Wells = Number of Wells used for industrial purpose 
+Consumptive Use Method: Formula for Consumptive Use Method is: 
+GEIND = Number of industrial units * Unit Water Consumption * Lg 
+Where, 
+Lg = Fractional Load on Ground Water for Domestic Water Supply 
+4.5 
+Stage of Ground Water Extraction (%) 
+To define a particular area in terms of Ground Water, we use stage of extraction. It defines the amount 
+of water extracted from total extractable ground water resources and is expressed in percentage. 
+ 
+Data computation methodology 
+The stage of ground water extraction is calculated as follows: 
+ 
+Stage of Extraction (%) = (GE)/(AEGR)*100 
+Where, 
+GE = Existing Gross Ground Water Extraction from all uses 
+AEGR = Annual Extractable Ground Water Resources 
+ 
+4.6 
+Categorization of the Assessment Unit 
+Based on Stage of Extraction we categorize the area into 4 categories SAFE, SEMI-CRITICAL, 
+--- Page 51 ---
+ 
+37 | P a g e 
+ 
+CRITICAL and OVER-EXPLOITED. The purpose of this categorization is to find out over exploited 
+and non-exploited areas for planning actions regarding ground water resources. 
+ 
+Data computation methodology 
+Based on Stage of Ground Water Extraction, assessment units into 4 categories: 
+ 
+SAFE 
+ 
+SEMI-CRITICAL 
+ 
+CRITICAL 
+ 
+OVER-EXPLOITED 
+The criteria for categorization of Assessment units will be: 
+Stage of Extraction (%) 
+Categorization 
+0 to <= 70 
+SAFE 
+>70 to <=90 
+SEMI-CRITICAL 
+>90 to <= 100 
+CRITICAL 
+>100 
+OVER-EXPLOITED 
+ 
+ 
+4.7 
+Allocation of Ground Water Resource for Utilization 
+The Annual Extractable Ground Water Resources are to be apportioned between domestic, industrial 
+and irrigation uses. This requirement has to be based on population as projected for the year 2025, per 
+capita requirement of water for domestic use, and relative load on ground water for urban and rural 
+water supply. 
+ 
+Data computation methodology 
+The Annual Extractable Ground Water Resources follow the following empirical relation: 
+Alloc = 22 X N X Lg (mm/year) 
+Where, 
+Alloc = Allocation for domestic water requirement 
+N = population density in the unit in thousands per sq.km. 
+Lg = fractional load on ground water for domestic water supply (<1.0) It is 
+assumed that the requirement of water for domestic use is 60 lpcd per head. 
+4.8 
+Net Annual Ground Water Availability 
+The water available for future use is obtained by deducting the allocation for domestic use and current 
+extraction for Irrigation and Industrial use from the Annual Extractable Ground Water Recharge. The 
+--- Page 59 ---
+ 
+45 | P a g e 
+ 
+ 
+ 
+ 
+ 
+4.18 Validation using GW 
+Ground Water assessment is based on the Stage of Extraction which has inherent 
+uncertainties. The estimation of ground water extraction is based on indirect assessment using 
+factors such as electricity consumption, well census and area irrigated from ground water. 
+Thus, it is very important to validate the ‘Stage of Ground Water Extraction’ with long term 
+trend of ground water levels. Long term water level trends are needed for a minimum period 
+of 10 years for both pre-monsoon and post-monsoon period. This data will help in getting the 
+Trend of Ground Water over the years. Following table is used for validation: 
+ 
+Stage 
+of 
+Extraction 
+Ground Water Level Trend Observed 
+Remarks 
+<= 70% 
+Significant decline in trend in both pre- 
+monsoon and post-monsoon 
+Not acceptable and 
+needs reassessment 
+>100% 
+No significant decline in both pre-monsoons 
+and post-monsoon long term trend 
+Not acceptable and 
+needs reassessment 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--- Page 78 ---
+ 
+64 | P a g e 
+ 
+Table: 14 District-wise Ground Water Extraction for Various Uses and Stage of Ground water extraction 
+UTTAR PRADESH 
+ 
+ 
+ 
+S. 
+No. 
+ 
+ 
+ 
+Name of 
+District 
+Ground Water Recharge 
+ 
+ 
+Total Natural 
+Discharges 
+ 
+Annual 
+Extractable 
+Ground 
+Water 
+Resource 
+Current Annual Ground Water Extraction 
+Annual 
+GW 
+Allocation 
+for 
+Domestic 
+Use as on 
+2025 
+ 
+Net Ground 
+Water 
+Availability 
+for future use 
+ 
+Stage of 
+Ground 
+Water 
+Extraction 
+(%) 
+Monsoon Season 
+Non-monsoon Season 
+Total 
+Annual 
+Ground 
+Water 
+Recharge 
+ 
+ 
+Irrigation 
+ 
+ 
+Industrial 
+ 
+ 
+Domestic 
+ 
+ 
+Total 
+ 
+Recharge 
+from 
+rainfall 
+ 
+Recharge 
+from other 
+sources 
+ 
+Recharge 
+from 
+rainfall 
+ 
+Recharge 
+from other 
+sources 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+1 Agra 
+46874.16 
+14095.73 
+652.55 
+23756.78 
+85379.22 
+6203.69 
+79175.53 
+82090.24 
+0.00 
+10386.66 
+92476.90 
+11671.76 
+4936.82 
+116.80 
+2 Aligarh 
+55114.00 
+14673.90 
+3079.62 
+32242.43 
+105109.95 
+8674.49 
+96435.46 
+58849.03 
+0.00 
+11080.98 
+69930.01 
+12635.10 
+28986.07 
+72.51 
+3 Ambedkar 
+Nagar 
+51627.40 
+12365.43 
+387.87 
+16021.81 
+80402.51 
+7062.11 
+73340.40 
+39455.32 
+0.00 
+6033.74 
+45489.06 
+6670.83 
+27214.24 
+62.02 
+4 Amethi 
+40352.54 
+20923.02 
+891.90 
+28145.88 
+90313.34 
+8286.10 
+82027.24 
+45357.00 
+0.00 
+4729.24 
+50086.24 
+5243.71 
+31426.53 
+61.06 
+5 Amroha 
+35354.74 
+6202.05 
+2016.91 
+9923.03 
+53496.73 
+2674.85 
+50821.88 
+44426.08 
+0.00 
+4564.47 
+48990.55 
+5188.02 
+3481.23 
+96.40 
+6 Aurraiya 
+32998.17 
+12464.06 
+1414.93 
+25970.98 
+72848.14 
+6502.76 
+66345.38 
+29753.60 
+0.00 
+2811.57 
+32565.17 
+3041.69 
+33550.08 
+49.08 
+7 Ayodhya 
+54982.69 
+15418.54 
+715.74 
+28749.66 
+99866.63 
+7889.13 
+91977.50 
+51372.96 
+0.00 
+6691.13 
+58064.09 
+7822.51 
+32782.02 
+63.13 
+8 Azamgarh 
+62092.79 
+23175.98 
+0.00 
+35731.33 
+121000.10 
+7748.38 
+113251.72 
+64876.48 
+0.00 
+12787.70 
+77664.18 
+14836.82 
+33538.44 
+68.58 
+9 Baghpat 
+16608.52 
+8267.17 
+1222.67 
+12927.22 
+39025.58 
+3119.27 
+35906.31 
+35149.16 
+0.00 
+2.45 
+35151.61 
+2.60 
+2419.68 
+97.90 
+10 Bahraich 
+87156.59 
+18078.22 
+3863.07 
+31599.66 
+140697.54 
+8406.59 
+132290.95 
+62375.08 
+0.00 
+9178.60 
+71553.68 
+10470.83 
+59445.07 
+54.09 
+11 Ballia 
+57231.32 
+13717.04 
+547.50 
+22032.83 
+93528.69 
+6465.43 
+87063.26 
+46915.44 
+0.00 
+7698.07 
+54613.51 
+8772.29 
+31375.53 
+62.73 
+12 Balrampur 
+61981.74 
+9818.66 
+6270.59 
+17104.81 
+95175.80 
+7884.46 
+87291.34 
+43492.24 
+0.00 
+5795.61 
+49287.85 
+6750.02 
+37049.06 
+56.46 
+13 Banda 
+49146.14 
+6735.10 
+519.80 
+11056.88 
+67457.92 
+4389.58 
+63068.34 
+37248.09 
+0.00 
+3762.52 
+41010.61 
+4256.96 
+21563.31 
+65.03 
+14 Barabanki 
+73808.32 
+45072.05 
+1657.39 
+84096.03 
+204633.79 
+15406.27 
+189227.52 
+107211.15 
+0.00 
+8511.84 
+115722.99 
+9670.51 
+72345.88 
+61.16 
+15 Bareili 
+82098.23 
+17554.41 
+3109.74 
+29694.68 
+132457.06 
+7003.68 
+125453.38 
+72084.80 
+0.00 
+13150.76 
+85235.56 
+14695.65 
+41749.49 
+67.94 
+16 Basti 
+63481.53 
+5522.12 
+829.32 
+9011.66 
+78844.63 
+6365.42 
+72479.21 
+39328.12 
+0.00 
+6212.45 
+45540.57 
+6902.14 
+26248.92 
+62.83 
+17 Bijnaur 
+90035.80 
+18274.04 
+6117.09 
+32201.59 
+146628.52 
+11040.00 
+135588.52 
+86484.11 
+0.00 
+7567.86 
+94051.97 
+8345.53 
+40758.88 
+69.37 
+18 Budaun 
+68192.08 
+5836.08 
+943.26 
+9595.56 
+84566.98 
+5441.57 
+79125.41 
+52939.36 
+0.00 
+8091.96 
+61031.32 
+9105.51 
+18340.29 
+77.13 
+19 Bulandshahar 
+49271.23 
+43536.67 
+2414.01 
+68823.75 
+164045.66 
+12285.66 
+151760.00 
+132226.74 
+0.00 
+6449.51 
+138676.25 
+6972.13 
+18475.12 
+91.38 
+20 Chandauli 
+32077.50 
+15410.99 
+0.00 
+8485.84 
+55974.33 
+4531.65 
+51442.68 
+22626.09 
+0.00 
+4439.93 
+27066.02 
+4896.29 
+23920.30 
+52.61 
+21 Chitrakoot 
+30697.23 
+4131.54 
+305.36 
+6042.80 
+41176.93 
+3539.43 
+37637.50 
+28736.33 
+0.00 
+2375.04 
+31111.37 
+2726.88 
+6174.29 
+82.66 
+22 Deoria 
+48883.60 
+45209.84 
+1534.42 
+45516.00 
+141143.86 
+12066.32 
+129077.54 
+69475.14 
+0.00 
+6870.06 
+76345.20 
+7468.53 
+52133.91 
+59.15 
+23 Etah 
+34631.75 
+9164.26 
+0.00 
+18546.08 
+62342.09 
+5151.70 
+57190.39 
+41172.57 
+0.00 
+4426.67 
+45599.24 
+4840.12 
+11177.70 
+79.73 
+24 Etawah 
+37198.53 
+15074.13 
+985.42 
+28143.00 
+81401.08 
+7023.72 
+74377.36 
+28675.37 
+0.00 
+3091.88 
+31767.25 
+3431.04 
+42270.94 
+42.71 
+25 Farrukhabad 
+36840.10 
+4924.99 
+1221.68 
+12972.81 
+55959.58 
+4727.45 
+51232.13 
+33753.52 
+0.00 
+3784.93 
+37538.45 
+4244.47 
+13234.14 
+73.27 
+26 Fatehpur 
+84640.60 
+24327.98 
+3736.62 
+36214.51 
+148919.71 
+10830.96 
+138088.75 
+90085.36 
+0.00 
+6945.93 
+97031.29 
+7940.09 
+40520.76 
+70.27 
+27 Firozabad 
+36615.11 
+11409.37 
+663.76 
+23645.80 
+72334.04 
+5335.15 
+66998.89 
+68630.88 
+0.00 
+6405.04 
+75035.92 
+7151.21 
+7236.25 
+112.00 
+28 G.B. Nagar 
+17852.82 
+18170.90 
+938.55 
+30197.13 
+67159.40 
+5924.21 
+61235.19 
+60634.00 
+0.00 
+1530.81 
+62164.81 
+1620.99 
+3882.66 
+101.52 
+29 Ghaziabad 
+13308.85 
+10988.67 
+1078.71 
+17617.85 
+42994.08 
+3456.81 
+39537.27 
+37002.24 
+0.00 
+8060.30 
+45062.54 
+12199.42 
+1678.00 
+113.97 
+30 Ghazipur 
+52829.48 
+17785.91 
+959.94 
+29128.33 
+100703.66 
+5641.14 
+95062.52 
+51244.48 
+0.00 
+6582.80 
+57827.28 
+7362.55 
+36455.44 
+60.83 
+31 Gonda 
+62117.13 
+14574.16 
+2546.00 
+21572.87 
+100810.16 
+5711.68 
+95098.48 
+48974.41 
+0.00 
+9194.93 
+58169.34 
+10644.32 
+35479.78 
+61.17 
+32 Gorakhpur 
+81953.64 
+64410.14 
+2056.40 
+29233.48 
+177653.66 
+15079.09 
+162574.57 
+88464.86 
+0.00 
+8686.27 
+97151.13 
+9644.51 
+64465.23 
+59.76 
+33 Hamirpur 
+40206.10 
+5725.02 
+0.00 
+7498.95 
+53430.07 
+4155.43 
+49274.64 
+31428.77 
+0.00 
+2125.79 
+33554.56 
+2255.14 
+15590.73 
+68.10 
+34 Hapur 
+17655.02 
+12863.80 
+1372.91 
+20510.59 
+52402.32 
+3162.81 
+49239.51 
+49326.80 
+0.00 
+3.27 
+49330.07 
+3.56 
+2391.80 
+100.18 
+35 Hardoi 
+104565.74 
+29991.19 
+5035.71 
+51362.01 
+190954.65 
+15909.95 
+175044.70 
+93874.65 
+0.00 
+8219.51 
+102094.16 
+9183.18 
+71986.87 
+58.32 
+36 Hathras 
+26825.12 
+13727.91 
+579.02 
+24930.66 
+66062.71 
+5162.58 
+60900.13 
+54238.10 
+0.00 
+3966.28 
+58204.38 
+4390.96 
+7743.60 
+95.57 
+37 Jalaun 
+77303.79 
+11887.53 
+949.23 
+26719.68 
+116860.23 
+9216.36 
+107643.87 
+50166.00 
+0.00 
+4162.29 
+54328.29 
+4509.25 
+52968.61 
+50.47 
+38 Jaunpur 
+75996.21 
+19753.21 
+0.00 
+36126.92 
+131876.34 
+10516.36 
+121359.98 
+74007.00 
+0.00 
+12180.13 
+86187.13 
+13725.89 
+33627.11 
+71.02 
+39 Jhansi 
+35884.12 
+21075.00 
+22.39 
+23350.22 
+80331.73 
+5122.30 
+75209.43 
+40434.77 
+0.00 
+3030.01 
+43464.78 
+3439.34 
+31335.34 
+57.79 
+40 Kannauj 
+37361.83 
+10242.60 
+1667.92 
+24076.62 
+73348.97 
+5180.20 
+68168.77 
+39944.50 
+0.00 
+4191.18 
+44135.68 
+4685.36 
+28671.84 
+64.74 
+41 Kanpur Dehat 
+53815.45 
+14683.33 
+461.51 
+27480.12 
+96440.41 
+7041.54 
+89398.87 
+61299.46 
+0.00 
+3925.70 
+65225.16 
+4202.93 
+23896.49 
+72.96 
+42 Kanpur Nagar 
+40715.03 
+14570.10 
+2014.96 
+31183.44 
+88483.53 
+5876.82 
+82606.71 
+55330.64 
+0.00 
+7502.80 
+62833.44 
+8000.00 
+19276.06 
+76.06 
+43 Kasganj 
+25330.22 
+14008.47 
+0.00 
+20681.08 
+60019.77 
+4222.71 
+55797.06 
+37232.13 
+0.00 
+3786.70 
+41018.83 
+4325.08 
+14239.85 
+73.51 
+--- Page 79 ---
+ 
+65 | P a g e 
+ 
+ 
+ 
+ 
+S. 
+No. 
+ 
+ 
+ 
+Name of 
+District 
+Ground Water Recharge 
+ 
+ 
+Total Natural 
+Discharges 
+ 
+Annual 
+Extractable 
+Ground 
+Water 
+Resource 
+Current Annual Ground Water Extraction 
+Annual 
+GW 
+Allocation 
+for 
+Domestic 
+Use as on 
+2025 
+ 
+Net Ground 
+Water 
+Availability 
+for future use 
+ 
+Stage of 
+Ground 
+Water 
+Extraction 
+(%) 
+Monsoon Season 
+Non-monsoon Season 
+Total 
+Annual 
+Ground 
+Water 
+Recharge 
+ 
+ 
+Irrigation 
+ 
+ 
+Industrial 
+ 
+ 
+Domestic 
+ 
+ 
+Total 
+ 
+Recharge 
+from 
+rainfall 
+ 
+Recharge 
+from other 
+sources 
+ 
+Recharge 
+from 
+rainfall 
+ 
+Recharge 
+from other 
+sources 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+44 Kaushambi 
+32336.86 
+7841.99 
+3333.26 
+12394.10 
+55906.21 
+4449.76 
+51456.45 
+35109.06 
+0.00 
+4266.45 
+39375.51 
+4995.90 
+12138.36 
+76.52 
+45 Kushi Nagar 
+54020.64 
+67119.23 
+2246.95 
+52404.24 
+175791.06 
+16913.59 
+158877.47 
+59050.84 
+0.00 
+8272.46 
+67323.30 
+9485.76 
+90340.84 
+42.37 
+46 Lakhimpur 
+Khiri 
+127372.32 
+25179.80 
+7177.41 
+55419.80 
+215149.33 
+14291.34 
+200857.99 
+109722.42 
+0.00 
+11307.14 
+121029.56 
+13690.09 
+77445.49 
+60.26 
+47 Lalitpur 
+19387.84 
+6892.54 
+0.00 
+18060.74 
+44341.12 
+3189.85 
+41151.27 
+29491.40 
+0.00 
+3256.65 
+32748.05 
+3775.90 
+7883.96 
+79.58 
+48 Lucknow 
+33891.13 
+16500.84 
+1193.78 
+25626.73 
+77212.48 
+5774.79 
+71437.69 
+35829.96 
+0.00 
+11666.73 
+47496.69 
+13872.83 
+25306.78 
+66.49 
+49 Maharajganj 
+67611.57 
+16810.53 
+1967.16 
+21137.60 
+107526.86 
+7857.60 
+99669.26 
+53353.07 
+0.00 
+6716.82 
+60069.89 
+7698.58 
+38617.58 
+60.27 
+50 Mahoba 
+9639.68 
+4883.41 
+0.00 
+6948.60 
+21471.69 
+1388.53 
+20083.16 
+17677.50 
+0.00 
+1114.08 
+18791.58 
+1212.54 
+1993.42 
+93.57 
+51 Mainpuri 
+39523.87 
+19822.93 
+0.00 
+35612.15 
+94958.95 
+7572.53 
+87386.42 
+55734.83 
+0.00 
+4770.12 
+60504.95 
+5240.74 
+28499.35 
+69.24 
+52 Mathura 
+45496.28 
+30198.40 
+0.00 
+48416.41 
+124111.09 
+9353.76 
+114757.33 
+77715.34 
+0.00 
+6175.51 
+83890.85 
+6972.00 
+33236.75 
+73.10 
+53 Mau 
+32398.04 
+5798.58 
+3213.88 
+8604.81 
+50015.31 
+3893.92 
+46121.39 
+24303.69 
+0.00 
+5989.67 
+30293.36 
+7033.82 
+14783.86 
+65.68 
+54 Meerut 
+42116.25 
+15539.14 
+2834.37 
+24596.20 
+85085.96 
+5989.79 
+79096.17 
+52687.00 
+0.00 
+8766.22 
+61453.22 
+9444.78 
+18415.22 
+77.69 
+55 Mirzapur 
+27003.16 
+16601.62 
+57.63 
+20096.67 
+63759.08 
+5317.05 
+58442.03 
+28771.40 
+0.00 
+6474.91 
+35246.31 
+7319.87 
+22542.11 
+60.31 
+56 Moradabad 
+40862.74 
+11462.40 
+1855.13 
+17827.52 
+72007.79 
+4440.87 
+67566.92 
+47402.83 
+0.00 
+10051.78 
+57454.61 
+11804.71 
+12582.82 
+85.03 
+57 Muzaffarnagar 
+50587.49 
+23665.46 
+3128.13 
+40176.05 
+117557.13 
+9403.86 
+108153.27 
+71932.20 
+0.00 
+6555.94 
+78488.14 
+7363.97 
+30173.69 
+72.57 
+58 Pilibhit 
+73382.69 
+14857.06 
+4318.14 
+27281.73 
+119839.62 
+7654.22 
+112185.40 
+59010.41 
+0.00 
+5158.34 
+64168.75 
+5768.94 
+47406.05 
+57.20 
+59 Pratapgarh 
+69552.90 
+32203.93 
+0.00 
+46208.37 
+147965.20 
+10344.54 
+137620.66 
+95016.46 
+0.00 
+7853.59 
+102870.05 
+8699.65 
+33904.57 
+74.75 
+60 Prayagraj 
+75007.83 
+29080.57 
+1663.88 
+41326.10 
+147078.38 
+12026.33 
+135052.05 
+83776.69 
+0.00 
+16415.99 
+100192.68 
+18291.78 
+35279.67 
+74.19 
+61 Rae Bareli 
+62824.50 
+25566.80 
+1502.35 
+41900.83 
+131794.48 
+9694.67 
+122099.81 
+61253.82 
+0.00 
+6725.43 
+67979.25 
+7673.42 
+53172.60 
+55.68 
+62 Rampur 
+44976.14 
+11690.95 
+1837.12 
+18880.57 
+77384.78 
+5494.18 
+71890.60 
+46907.99 
+0.00 
+4930.74 
+51838.73 
+5579.04 
+19403.58 
+72.11 
+63 S.Kabir Nagar 
+35894.70 
+4030.38 
+320.30 
+7004.99 
+47250.37 
+2986.50 
+44263.87 
+25180.86 
+0.00 
+4110.76 
+29291.62 
+4631.67 
+14451.35 
+66.18 
+64 S.Ravidas 
+Nagar 
+18854.50 
+7720.63 
+184.70 
+9928.07 
+36687.90 
+3170.36 
+33517.54 
+23564.51 
+0.00 
+3336.18 
+26900.69 
+3626.50 
+6326.52 
+80.26 
+65 Saharanpur 
+67123.72 
+22036.58 
+5801.71 
+37584.63 
+132546.64 
+7829.98 
+124716.66 
+125786.56 
+0.00 
+6976.31 
+132762.87 
+7702.09 
+11256.03 
+106.45 
+66 Shahjahanpur 
+88882.69 
+17119.02 
+5231.84 
+25391.20 
+136624.75 
+9403.68 
+127221.07 
+69330.63 
+0.00 
+8071.57 
+77402.20 
+9367.31 
+48523.13 
+60.84 
+67 Shambhal 
+38786.21 
+3429.23 
+2040.90 
+5358.13 
+49614.47 
+3073.58 
+46540.89 
+34589.16 
+0.00 
+5401.36 
+39990.52 
+6263.01 
+5910.42 
+85.93 
+68 Shamli 
+20926.70 
+9034.87 
+1544.69 
+13703.88 
+45210.14 
+2660.34 
+42549.80 
+41319.36 
+0.00 
+3009.89 
+44329.25 
+3066.96 
+2004.04 
+104.18 
+69 Shrawasti 
+33714.02 
+4479.09 
+3478.99 
+7410.28 
+49082.38 
+2454.12 
+46628.26 
+27471.96 
+0.00 
+4.53 
+27476.49 
+5.29 
+19151.01 
+58.93 
+70 Siddharth 
+Nagar 
+64816.89 
+10830.58 
+1409.47 
+15781.93 
+92838.87 
+5237.28 
+87601.59 
+47152.30 
+0.00 
+6930.18 
+54082.48 
+8079.37 
+32369.89 
+61.74 
+71 Sitapur 
+109136.46 
+39979.52 
+4825.97 
+70649.18 
+224591.13 
+18029.93 
+206561.20 
+107818.20 
+0.00 
+10628.90 
+118447.10 
+12255.85 
+86487.23 
+57.34 
+72 Sonbhadra 
+16651.40 
+4834.56 
+72.92 
+3645.20 
+25204.08 
+1830.31 
+23373.77 
+11043.47 
+0.00 
+4071.87 
+15115.34 
+4747.94 
+7582.39 
+64.67 
+73 Sultanpur 
+45564.14 
+18448.49 
+499.32 
+26403.64 
+90915.59 
+7272.67 
+83642.92 
+44641.36 
+0.00 
+5776.60 
+50417.96 
+6429.21 
+32572.33 
+60.28 
+74 Unnao 
+75358.84 
+45363.14 
+2650.76 
+65733.87 
+189106.61 
+11605.65 
+177500.96 
+99531.27 
+0.00 
+8150.97 
+107682.24 
+9372.65 
+68597.04 
+60.67 
+75 Varanasi 
+27605.99 
+11147.16 
+342.97 
+17952.64 
+57048.76 
+3654.40 
+53394.36 
+38375.40 
+0.00 
+10328.05 
+48703.45 
+10946.31 
+8690.25 
+91.21 
+ 
+Total (Ham) 
+3775021.15 
+1316010.74 
+129518.20 
+1999390.22 
+7219940.31 
+531695.79 
+6688244.52 
+4128945.02 
+0.00 
+474261.11 
+4603205.95 
+538364.20 
+2153092.69 
+68.83 
+ 
+Total (Bcm) 
+37.75 
+13.16 
+1.30 
+19.99 
+72.20 
+5.32 
+66.88 
+41.29 
+0.00 
+4.74 
+46.03 
+5.38 
+21.53 
+68.83 
+--- Page 80 ---
+ 
+66 | P a g e 
+ 
+ 
+7. GROUND WATER EXTRACTION AND CATEGORIZATION OF ASSESSMENT 
+ 
+7.1. Stage of Ground Water Extraction and Categorization of assessment 
+The distributions of various categorized blocks are shown in the Figure-15, in which 177 
+blocks are falling in semi-critical category, 49 assessment units (48 blocks and 1 urban area) in 
+critical category and 66 assessment unit (57 blocks and 9 urban area) of the state are categorized as 
+over-exploited. List of semi-critical, critical and over- exploited area is given in Table-15. Almost 
+all over-exploited blocks are falling in western part of Uttar Pradesh, where ground water draft has 
+increased manifold during past decades. The stage of ground water extraction of the State is 
+68.83%. 
+ 
+Fig 8: Categorization of Assessment Unit (Block & Urban area) For Ground Water Extraction - As on 
+March 2020 
+--- Page 88 ---
+ 
+74 | P a g e 
+ 
+Table 18: Assessment units which improved from Semi-critical to Safe category 
+S. 
+No 
+Name of District 
+Name of Assessment 
+Unit   
+Stage of 
+Ground 
+Water  
+Extracti
+on (%)  
+in 2017 
+Categoriza
+tion in 
+2017 
+Stage of 
+Ground 
+Water  
+Extracti
+on (%)  
+in 2020 
+Categor
+ization 
+in 2020 
+Remark 
+1 
+AMBEDKAR 
+NAGAR 
+BASKHARI 
+74.00 
+Semi-
+Critical 
+67.83 
+Safe 
+Extraction for irrigation reduced 
+as per MI Census, WL raised 
+subsequently 
+2 
+AMBEDKAR 
+NAGAR 
+BHITI 
+89.09 
+Semi-
+Critical 
+68.48 
+Safe 
+Extraction for irrigation reduced 
+as per MI Census, WL raised 
+subsequently 
+3 
+AMBEDKAR 
+NAGAR 
+JAHANGIRGANI 
+89.81 
+Semi-
+Critical 
+57.61 
+Safe 
+Extraction for irrigation reduced 
+as per MI Census, WL raised 
+subsequently 
+4 
+AMBEDKAR 
+NAGAR 
+KATEHARI 
+74.03 
+Semi-
+Critical 
+61.50 
+Safe 
+Extraction for irrigation reduced 
+as per MI Census, WL raised 
+subsequently 
+5 
+BARABANKI 
+BANI KODAR 
+80.40 
+Semi-
+Critical 
+65.64 
+Safe 
+Extraction for irrigation reduced 
+as per MI Census, WL raised 
+subsequently 
+6 
+CHITRAKOOT 
+MANIKPUR 
+70.66 
+Semi-
+Critical 
+65.54 
+Safe 
+Increased Rainfall Recharge as 
+calculated by WTF 
+7 
+ETAH 
+AWAGARH 
+71.36 
+Semi-
+Critical 
+68.32 
+Safe 
+Increased Rainfall Recharge as 
+calculated by WTF 
+8 
+FARRUKHABAD 
+SHAMSABAD 
+70.98 
+Semi-
+Critical 
+68.15 
+Safe 
+Extraction for irrigation reduced 
+as per MI Census, WL raised 
+subsequently 
+9 
+FATEHPUR 
+BAHUA 
+71.40 
+Semi-
+Critical 
+69.07 
+Safe 
+Extraction for irrigation reduced 
+as per MI Census, WL raised 
+subsequently 
+10 
+FATEHPUR 
+DHATA 
+71.49 
+Semi-
+Critical 
+64.02 
+Safe 
+Extraction for irrigation reduced 
+as per MI Census, WL raised 
+subsequently 
+11 
+FATEHPUR 
+HASWA 
+74.96 
+Semi-
+Critical 
+63.55 
+Safe 
+Extraction for irrigation reduced 
+as per MI Census, WL raised 
+subsequently 
+12 
+FATEHPUR 
+HATHGAON 
+73.37 
+Semi-
+Critical 
+66.28 
+Safe 
+Extraction for irrigation reduced 
+as per MI Census, WL raised 
+subsequently 
+13 
+GHAZIPUR 
+MOHAMMADABAD 
+78.89 
+Semi-
+Critical 
+57.87 
+Safe 
+Extraction for irrigation reduced 
+as per MI Census, WL raised 
+subsequently 
+14 
+GHAZIPUR 
+VARACHAKWAR 
+72.96 
+Semi-
+Critical 
+68.35 
+Safe 
+Extraction for irrigation reduced 
+as per MI Census, WL raised 
+subsequently 
+15 
+HAMIRPUR 
+MAUDAHA 
+80.22 
+Semi-
+Critical 
+54.39 
+Safe 
+Extraction for irrigation reduced 
+as per MI Census, WL raised 
+subsequently 
+16 
+JAUNPUR 
+DOBHI 
+83.39 
+Semi-
+Critical 
+66.57 
+Safe 
+Increased Rainfall Recharge as 
+calculated by WTF 
+17 
+JAUNPUR 
+RAMNAGAR 
+81.35 
+Semi-
+Critical 
+64.30 
+Safe 
+Extraction for irrigation reduced 
+as per MI Census, WL raised 
+subsequently 
+18 
+JAUNPUR 
+RAMPUR 
+71.36 
+Semi-
+Critical 
+67.98 
+Safe 
+Extraction for irrigation reduced 
+as per MI Census, WL raised 
+subsequently 
+19 
+MEERUT 
+SARURPUR 
+72.04 
+Semi-
+Critical 
+68.12 
+Safe 
+Extraction for irrigation reduced 
+as per MI Census, WL raised 
+subsequently 
+20 
+RAE BARELI 
+SARAINI 
+79.99 
+Semi-
+Critical 
+66.30 
+Safe 
+Extraction for irrigation reduced 
+as per MI Census, WL raised 
+subsequently 
+21 
+VARANASI 
+CHOLAPUR 
+71.18 
+Semi-
+Critical 
+68.65 
+Safe 
+Extraction for irrigation reduced 
+as per MI Census, WL raised 
+subsequently 
+ 
+ 
+--- Page 89 ---
+ 
+75 | P a g e 
+ 
+Table 19: Assessment units which improved from Over exploited to critical category 
+ 
+ 
+ 
+ 
+ 
+S. 
+No 
+Name of District 
+Name of 
+Assessment Unit   
+Stage of 
+Ground 
+Water  
+Extraction 
+(%)  in 
+2017 
+Categoriza
+tion in 
+2017 
+Stage of 
+Ground 
+Water  
+Extraction 
+(%)  in 
+2020 
+Categor
+ization 
+in 2020 
+Remark 
+1 
+AMROHA 
+DHANAURA 
+104.43 
+Over 
+Exploited 
+97.09 
+Critical 
+Extraction for irrigation reduced as per 
+MI Census, WL raised subsequently 
+2 
+AMROHA 
+GAJRAULA 
+110.42 
+Over 
+Exploited 
+98.04 
+Critical 
+Extraction for irrigation reduced as per 
+MI Census, WL raised subsequently 
+3 
+AMROHA 
+HASANPUR 
+111.60 
+Over 
+Exploited 
+92.35 
+Critical 
+Extraction for irrigation reduced as per 
+MI Census, WL raised subsequently 
+4 
+BIJNAUR 
+JALEELPUR 
+110.20 
+Over 
+Exploited 
+92.02 
+Critical 
+Extraction for irrigation reduced as per 
+MI Census, WL raised subsequently 
+5 
+G.B. NAGAR 
+JEWAR 
+108.81 
+Over 
+Exploited 
+98.36 
+Critical 
+Extraction for irrigation reduced as per 
+MI Census, WL raised subsequently 
+6 
+HAPUR 
+HAPUR 
+112.42 
+Over 
+Exploited 
+96.87 
+Critical 
+Extraction for irrigation reduced as per 
+MI Census, WL raised subsequently 
+7 
+HAPUR 
+SIMBHOLI 
+102.44 
+Over 
+Exploited 
+96.87 
+Critical 
+Extraction for irrigation reduced as per 
+MI Census, WL raised subsequently 
+8 
+JAUNPUR 
+BADLAPUR 
+123.05 
+Over 
+Exploited 
+92.64 
+Critical 
+Increased Rainfall Recharge as 
+calculated by WTF 
+9 
+JAUNPUR 
+KARANJA 
+KALAN 
+100.64 
+Over 
+Exploited 
+79.34 
+Semi-
+Critical 
+Increased Rainfall Recharge as 
+calculated by WTF 
+10 
+JAUNPUR 
+KERAKAT 
+104.41 
+Over 
+Exploited 
+87.65 
+Semi-
+Critical 
+Extraction for irrigation reduced as per 
+MI Census, WL raised subsequently 
+11 
+JAUNPUR 
+MAHARAJGANJ 
+113.25 
+Over 
+Exploited 
+93.16 
+Critical 
+Extraction for irrigation reduced as per 
+MI Census, WL raised subsequently 
+12 
+JAUNPUR 
+SIKRARA 
+103.87 
+Over 
+Exploited 
+76.21 
+Semi-
+Critical 
+Extraction for irrigation reduced as per 
+MI Census, WL raised subsequently 
+13 
+JAUNPUR 
+SIRKONI 
+104.46 
+Over 
+Exploited 
+78.30 
+Semi-
+Critical 
+Extraction for irrigation reduced as per 
+MI Census, WL raised subsequently 
+14 
+KANPUR 
+NAGAR 
+CHAUBEPUR 
+109.89 
+Over 
+Exploited 
+97.91 
+Critical 
+Extraction for irrigation reduced as per 
+MI Census, WL raised subsequently 
+15 
+KANPUR 
+NAGAR 
+KANPUR CITY 
+102.35 
+Over 
+Exploited 
+94.49 
+Critical 
+Extraction for irrigation reduced as per 
+MI Census, WL raised subsequently 
+16 
+MATHURA 
+BALDEO 
+102.73 
+Over 
+Exploited 
+95.79 
+Critical 
+Extraction for irrigation reduced as per 
+MI Census, WL raised subsequently 
+17 
+MEERUT 
+KHARKHODA 
+110.86 
+Over 
+Exploited 
+97.36 
+Critical 
+Extraction for irrigation reduced as per 
+MI Census, WL raised subsequently 
+18 
+MEERUT 
+MACHHRA 
+114.91 
+Over 
+Exploited 
+95.04 
+Critical 
+Extraction for irrigation reduced as per 
+MI Census, WL raised subsequently 
+19 
+MEERUT 
+RAJPURA 
+104.29 
+Over 
+Exploited 
+95.52 
+Critical 
+Extraction for irrigation reduced as per 
+MI Census, WL raised subsequently 
+20 
+MUZAFFARNA
+GAR 
+BUDHANA 
+101.11 
+Over 
+Exploited 
+99.21 
+Critical 
+Extraction for irrigation reduced as per 
+MI Census, WL raised subsequently 
+21 
+PRATAPGARH 
+MANDHATA 
+107.37 
+Over 
+Exploited 
+95.65 
+Critical 
+Extraction for irrigation reduced as per 
+MI Census, WL raised subsequently 
+22 
+PRATAPGARH 
+SADAR 
+120.43 
+Over 
+Exploited 
+95.02 
+Critical 
+Extraction for irrigation reduced as per 
+MI Census, WL raised subsequently 
+23 
+PRATAPGARH 
+SANDWA 
+CHANDIKA 
+138.73 
+Over 
+Exploited 
+94.44 
+Critical 
+Extraction for irrigation reduced as per 
+MI Census, WL raised subsequently 
+24 
+PRATAPGARH 
+SHIVGARH 
+107.93 
+Over 
+Exploited 
+90.56 
+Critical 
+Extraction for irrigation reduced as per 
+MI Census, WL raised subsequently 
+25 
+PRAYAGRAJ 
+CHAKA 
+106.43 
+Over 
+Exploited 
+93.29 
+Critical 
+Extraction for irrigation reduced as per 
+MI Census, WL raised subsequently 
+26 
+RAMPUR 
+CHAMRAUWA 
+133.15 
+Over 
+Exploited 
+94.46 
+Critical 
+Extraction for irrigation reduced as per 
+MI Census, WL raised subsequently 
+27 
+SAHARANPUR 
+SADHAULI 
+KADEEM 
+138.97 
+Over 
+Exploited 
+91.76 
+Critical 
+Extraction for irrigation reduced as per 
+MI Census, WL raised subsequently 
+28 
+SHAMBHAL 
+BAHJOI 
+108.46 
+Over 
+Exploited 
+92.08 
+Critical 
+Extraction for irrigation reduced as per 
+MI Census, WL raised subsequently 
+29 
+SHAMBHAL 
+BANIAKHERA 
+101.08 
+Over 
+Exploited 
+92.44 
+Critical 
+Extraction for irrigation reduced as per 
+MI Census, WL raised subsequently 
+30 
+SHAMBHAL 
+PAWANSA 
+102.61 
+Over 
+Exploited 
+92.59 
+Critical 
+Extraction for irrigation reduced as per 
+MI Census, WL raised subsequently 
+--- Page 90 ---
+ 
+76 | P a g e 
+ 
+Table 20: Assessment units which improved from Critical to Semi-critical category 
+S. 
+No 
+Name of District 
+Name of 
+Assessment Unit   
+Stage of 
+Ground 
+Water  
+Extractio
+n (%)  in 
+2017 
+Catego
+rizatio
+n in 
+2017 
+Stage 
+of 
+Groun
+d 
+Water  
+Extrac
+tion 
+(%)  in 
+2020 
+Catego
+rizatio
+n in 
+2020 
+Remark 
+1 
+BIJNAUR 
+NOORPUR 
+96.24 
+Critical 
+89.93 
+Semi-
+Critical 
+Extraction for irrigation reduced as per 
+MI Census, WL raised subsequently 
+2 
+JAUNPUR 
+BAKSHA 
+96.15 
+Critical 
+80.16 
+Semi-
+Critical 
+Increased Rainfall Recharge as 
+calculated by WTF 
+3 
+JAUNPUR 
+MUFTIGANJ 
+95.83 
+Critical 
+86.90 
+Semi-
+Critical 
+Extraction for irrigation reduced as per 
+MI Census, WL raised subsequently 
+4 
+KANPUR NAGAR 
+GHATAMPUR 
+93.99 
+Critical 
+88.59 
+Semi-
+Critical 
+Extraction for irrigation reduced as per 
+MI Census, WL raised subsequently 
+5 
+KANPUR NAGAR 
+SARSOL 
+90.41 
+Critical 
+87.59 
+Semi-
+Critical 
+Extraction for irrigation reduced as per 
+MI Census, WL raised subsequently 
+6 
+KASGANJ 
+KASGANJ 
+99.19 
+Critical 
+87.51 
+Semi-
+Critical 
+Extraction for irrigation reduced as per 
+MI Census, WL raised subsequently 
+7 
+MEERUT 
+MEERUT 
+91.70 
+Critical 
+86.93 
+Semi-
+Critical 
+Extraction for irrigation reduced as per 
+MI Census, WL raised subsequently 
+8 
+MEERUT 
+PARICHHATGA
+RH 
+90.94 
+Critical 
+85.68 
+Semi-
+Critical 
+Extraction for irrigation reduced as per 
+MI Census, WL raised subsequently 
+9 
+MIRZAPUR 
+CHANBEY 
+93.63 
+Critical 
+77.89 
+Semi-
+Critical 
+Extraction for irrigation reduced as per 
+MI Census, WL raised subsequently 
+10 
+MIRZAPUR 
+CITY 
+95.94 
+Critical 
+88.10 
+Semi-
+Critical 
+Extraction for irrigation reduced as per 
+MI Census, WL raised subsequently 
+11 
+MORADABAD 
+BHAGATPUR 
+TANDA 
+94.95 
+Critical 
+88.43 
+Semi-
+Critical 
+Extraction for irrigation reduced as per 
+MI Census, WL raised subsequently 
+12 
+MORADABAD 
+DILARI 
+97.70 
+Critical 
+82.68 
+Semi-
+Critical 
+Extraction for irrigation reduced as per 
+MI Census, WL raised subsequently 
+13 
+MUZAFFARNAG
+AR 
+CHARTHAWAL 
+95.11 
+Critical 
+89.54 
+Semi-
+Critical 
+Extraction for irrigation reduced as per 
+MI Census, WL raised subsequently 
+14 
+PRATAPGARH 
+MANGARAURA 
+91.28 
+Critical 
+82.02 
+Semi-
+Critical 
+Extraction for irrigation reduced as per 
+MI Census, WL raised subsequently 
+15 
+PRATAPGARH 
+PATTI 
+95.06 
+Critical 
+81.37 
+Semi-
+Critical 
+Extraction for irrigation reduced as per 
+MI Census, WL raised subsequently 
+16 
+PRAYAGRAJ 
+BAHADURPUR 
+90.75 
+Critical 
+84.10 
+Semi-
+Critical 
+Extraction for irrigation reduced as per 
+MI Census, WL raised subsequently 
+17 
+PRAYAGRAJ 
+DHANUPUR 
+94.63 
+Critical 
+85.78 
+Semi-
+Critical 
+Extraction for irrigation reduced as per 
+MI Census, WL raised subsequently 
+18 
+PRAYAGRAJ 
+PRATAPPUR 
+91.46 
+Critical 
+86.99 
+Semi-
+Critical 
+Extraction for irrigation reduced as per 
+MI Census, WL raised subsequently 
+19 
+BHADOI 
+BHADOHI 
+91.35 
+Critical 
+74.97 
+Semi-
+Critical 
+Extraction for irrigation reduced as per 
+MI Census, WL raised subsequently 
+20 
+BHADOI 
+GYANPUR 
+96.88 
+Critical 
+85.42 
+Semi-
+Critical 
+Extraction for irrigation reduced as per 
+MI Census, WL raised subsequently 
+21 
+SAHARANPUR 
+DEOBAND 
+91.90 
+Critical 
+86.12 
+Semi-
+Critical 
+Extraction for irrigation reduced as per 
+MI Census, WL raised subsequently 
+22 
+SAHARANPUR 
+MUZAFFARABA
+D 
+92.74 
+Critical 
+86.27 
+Semi-
+Critical 
+Extraction for irrigation reduced as per 
+MI Census, WL raised subsequently 
+23 
+SAHARANPUR 
+NANAUTA 
+93.90 
+Critical 
+87.50 
+Semi-
+Critical 
+Extraction for irrigation reduced as per 
+MI Census, WL raised subsequently 
+24 
+SAHARANPUR 
+RAMPUR 
+MANIHARAN 
+92.85 
+Critical 
+89.74 
+Semi-
+Critical 
+Extraction for irrigation reduced as per 
+MI Census, WL raised subsequently 
+25 
+SHAMBHAL 
+ASMOLI 
+94.41 
+Critical 
+82.67 
+Semi-
+Critical 
+Extraction for irrigation reduced as per 
+MI Census, WL raised subsequently 
+26 
+VARANASI 
+PINDRA 
+114.92 
+Critical 
+83.27 
+Semi-
+Critical 
+Extraction for irrigation reduced as per 
+MI Census, WL raised subsequently 
+ 
+ 
+ 
+--- Page 91 ---
+ 
+77 | P a g e 
+ 
+Table 21: Assessment units which Deteriorated from Critical to Over-exploited category 
+S. 
+No 
+Name of 
+District 
+Name of 
+Assessment Unit   
+Stage of 
+Ground 
+Water  
+Extraction 
+(%) 2017 
+Catego
+rizatio
+n 2017 
+Stage of 
+Ground 
+Water 
+Extraction 
+(%) in 
+2020 
+Categoriz
+ation 
+2020 
+Remark 
+1 
+AGRA 
+AGRA CITY 
+93.37 
+Critical 
+174.33 
+Over 
+Exploited 
+Recharge Reduced as per new 
+Methodology and INGRES 
+2 
+AGRA 
+AKOLA 
+96.54 
+Critical 
+117.64 
+Over 
+Exploited 
+Less recharge 
+3 
+BUDAUN 
+ASAFPUR 
+97.06 
+Critical 
+100.41 
+Over 
+Exploited 
+Less recharge 
+4 
+BULANDS
+HAHAR 
+BHAWAN 
+BAHADUR 
+NAGAR 
+97.84 
+Critical 
+101.98 
+Over 
+Exploited 
+Less recharge 
+5 
+MIRZAPUR 
+KON 
+98.14 
+Critical 
+113.85 
+Over 
+Exploited 
+Extraction for Irrigation increased 
+(1.2 times), WL decreased 
+Table 22: Assessment units which Deteriorated from Safe to Semi-Critical category 
+S. 
+No 
+Name of 
+District 
+Name of 
+Assessment 
+Unit 
+Stage of 
+Ground 
+Water  
+Extracti
+on (%) 
+2017 
+Cate
+goriz
+ation 
+2017 
+Stage of 
+Ground 
+Water 
+Extracti
+on (%) 
+in 2020 
+Categorization 
+2020 
+Remark 
+1 
+AGRA 
+JAITPUR 
+KALAN 
+65.13 
+Safe 
+80.44 
+Semi-Critical 
+Less recharge 
+2 
+AZAMGARH 
+AHIRAULA 
+69.76 
+Safe 
+71.48 
+Semi-Critical 
+Marginally less recharge 
+3 
+AZAMGARH 
+ATRAULIA 
+65.94 
+Safe 
+71.22 
+Semi-Critical 
+Marginally less recharge 
+4 
+AZAMGARH 
+KOILSA 
+69.28 
+Safe 
+73.56 
+Semi-Critical 
+Less recharge 
+5 
+AZAMGARH 
+PALHANA 
+69.72 
+Safe 
+72.84 
+Semi-Critical 
+Less recharge 
+6 
+AZAMGARH 
+PALHANI 
+67.65 
+Safe 
+77.95 
+Semi-Critical 
+Less recharge 
+7 
+AZAMGARH 
+TARWA 
+65.03 
+Safe 
+86.81 
+Semi-Critical 
+Less recharge 
+8 
+BAREILI 
+MAJHGAWA 
+68.84 
+Safe 
+70.08 
+Semi-Critical 
+Less recharge 
+9 
+BIJNAUR 
+KOTWALI 
+68.70 
+Safe 
+71.86 
+Semi-Critical 
+Less recharge 
+10 
+ETAH 
+SAKIT 
+69.34 
+Safe 
+70.48 
+Semi-Critical 
+Extraction increased 
+11 
+FATEHPUR 
+KHAJUHA 
+50.97 
+Safe 
+72.09 
+Semi-Critical 
+Less recharge 
+12 
+FIROZABAD 
+EKA 
+66.84 
+Safe 
+72.40 
+Semi-Critical 
+Less recharge 
+13 
+FIROZABAD 
+JASRANA 
+62.84 
+Safe 
+78.61 
+Semi-Critical 
+Less recharge 
+14 
+HARDOI 
+TODARPUR 
+66.84 
+Safe 
+73.00 
+Semi-Critical 
+Less recharge 
+15 
+KANPUR 
+DEHAT 
+DERAPUR 
+48.86 
+Safe 
+74.96 
+Semi-Critical 
+Rapid increase in 
+Extraction for Irrigation. 
+WL decreased significantly 
+16 
+KANPUR 
+DEHAT 
+JHINJHAK 
+68.98 
+Safe 
+75.36 
+Semi-Critical 
+Less recharge 
+17 
+KANPUR 
+DEHAT 
+MAITHA 
+67.78 
+Safe 
+73.90 
+Semi-Critical 
+Extraction for Irrigation 
+increased (1.18 times) 
+18 
+KASGANJ 
+PATIYALI 
+64.40 
+Safe 
+76.56 
+Semi-Critical 
+Less recharge 
+19 
+MAINPURI 
+KURAWALI 
+68.57 
+Safe 
+70.30 
+Semi-Critical 
+Less recharge 
+20 
+SONBHADRA 
+NAGAWA 
+66.58 
+Safe 
+74.11 
+Semi-Critical 
+Marginally less recharge 
+ 
+ 
+ 
+--- Page 92 ---
+ 
+78 | P a g e 
+ 
+Table 23: Assessment units which Deteriorated from Semi-Critical to Critical category 
+ 
+ 
+ 
+ 
+ 
+ 
+S. 
+No 
+Name of 
+District 
+Name of 
+Assessment 
+Unit   
+Stage of 
+Ground 
+Water  
+Extraction 
+(%) 2017 
+Categorizati
+on 2017 
+Stage of 
+Ground 
+Water 
+Extraction 
+(%) in 
+2020 
+Categori
+zation 
+2020 
+Remark 
+1 
+AGRA 
+BAH 
+83.98 
+Semi-
+Critical 
+96.37 
+Critical 
+Less recharge 
+2 
+BULANDS
+HAHAR 
+ARNIA 
+KHURD 
+88.53 
+Semi-
+Critical 
+94.00 
+Critical 
+Less recharge 
+3 
+ETAH 
+ALIGANJ 
+88.26 
+Semi-
+Critical 
+90.02 
+Critical 
+Less recharge 
+4 
+HATHRAS 
+SIKANDR
+A RAO 
+88.58 
+Semi-
+Critical 
+91.43 
+Critical 
+Less recharge 
+5 
+KASGANJ 
+GANJDUN
+DWARA 
+77.10 
+Semi-
+Critical 
+92.04 
+Critical 
+Less recharge 
+6 
+MIRZAPUR 
+SIKHAR 
+85.44 
+Semi-
+Critical 
+91.81 
+Critical 
+Extraction for Irrigation 
+increased (1.11 times), WL 
+decreased  

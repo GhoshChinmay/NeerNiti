@@ -1,0 +1,25 @@
+{
+  "model_version_id": "verification_lstm_v1.1_20260808_191411",
+  "module_name": "verification",
+  "algorithm": "Bi-LSTM",
+  "trained_on": "2026-08-08",
+  "hyperparameters": {
+    "units_1": 96,
+    "units_2": 64,
+    "dropout": 0.33002695512927693,
+    "learning_rate": 0.0016223409622052125,
+    "batch_size": 8,
+    "use_attention": false,
+    "sequence_length": 24,
+    "optimizer": "Adam"
+  },
+  "evaluation_metrics": {
+    "rmse": 0.3076488740110162,
+    "rmse_std": 0.0714249555667938,
+    "mae": 0.2562297613842479,
+    "baseline_prophet_rmse": 0.32755715492930687,
+    "mc_dropout_mean_uncertainty_m": 0.5416421687998728,
+    "deviation_threshold": 0.15
+  },
+  "training_data_snapshot": "Simulated_MultiWell_Dataset_v1.1_6wells"
+}

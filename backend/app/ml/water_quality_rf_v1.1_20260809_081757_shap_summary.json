@@ -1,0 +1,35 @@
+{
+  "Low": {
+    "dist_to_industrial_m": 0.14288,
+    "dist_to_sewage_line_m": 0.10057,
+    "dist_to_farmland_m": 0.0591,
+    "population_density": 0.00509,
+    "lu_agricultural": 0.00155,
+    "lu_industrial": 0.00122,
+    "lu_barren": 0.00059,
+    "lu_forest": 0.00035,
+    "lu_residential": 0.00033
+  },
+  "Medium": {
+    "dist_to_farmland_m": 0.20363,
+    "dist_to_industrial_m": 0.09806,
+    "dist_to_sewage_line_m": 0.06888,
+    "population_density": 0.00411,
+    "lu_industrial": 0.00144,
+    "lu_forest": 0.00124,
+    "lu_residential": 0.00109,
+    "lu_agricultural": 0.0006,
+    "lu_barren": 0.00046
+  },
+  "High": {
+    "dist_to_farmland_m": 0.26274,
+    "dist_to_industrial_m": 0.04483,
+    "dist_to_sewage_line_m": 0.03169,
+    "population_density": 0.00164,
+    "lu_agricultural": 0.00158,
+    "lu_forest": 0.00127,
+    "lu_residential": 0.00096,
+    "lu_industrial": 0.0004,
+    "lu_barren": 0.00023
+  }
+}

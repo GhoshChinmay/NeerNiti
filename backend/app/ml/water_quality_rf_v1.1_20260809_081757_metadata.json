@@ -1,0 +1,22 @@
+{
+  "model_version_id": "water_quality_rf_v1.1_20260809_081757",
+  "module_name": "risk_screening",
+  "algorithm": "RandomForest",
+  "trained_on": "2026-08-09",
+  "hyperparameters": {
+    "n_estimators": 337,
+    "max_depth": 4,
+    "min_samples_split": 7,
+    "min_samples_leaf": 2,
+    "class_weight": "balanced",
+    "random_state": 42,
+    "n_jobs": -1
+  },
+  "evaluation_metrics": {
+    "macro_f1": 0.9725839167702676,
+    "cv_macro_f1_winning_candidate": 0.9503894967707464,
+    "high_risk_missed_as_low": 1,
+    "mean_data_confidence": 0.7179875
+  },
+  "training_data_snapshot": "Simulated_Proximity_LandUse_Data_v1.1"
+}

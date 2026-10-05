@@ -1,0 +1,17 @@
+[
+  {
+    "version_id": "site_rec_panindia_v2.1_20260903_214732",
+    "started_at": "2026-09-03T21:47:32.506498+00:00",
+    "completed_at": "2026-09-03T21:47:32.514688+00:00",
+    "psi_drift_score": 0.0492,
+    "drift_level": "LOW",
+    "samples_processed": 500,
+    "status": "SUCCESS",
+    "trigger_reason": "Manual Force Trigger",
+    "satellite_sources": [
+      "Sentinel-2 Level-2A",
+      "CHIRPS Precipitation",
+      "India-WRIS CGWB Telemetry"
+    ]
+  }
+]

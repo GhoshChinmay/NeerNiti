@@ -1,0 +1,57 @@
+{
+  "version_string": "water_quality_rf_v1.1_20260809_081757",
+  "timestamp": "2026-08-09T08:17:57.252613+00:00",
+  "candidates": {
+    "random_forest": {
+      "cv_macro_f1": 0.9503894967707464,
+      "params": {
+        "n_estimators": 337,
+        "max_depth": 4,
+        "min_samples_split": 7,
+        "min_samples_leaf": 2
+      }
+    },
+    "xgboost": {
+      "cv_macro_f1": 0.9486017350777685,
+      "params": {
+        "n_estimators": 180,
+        "max_depth": 3,
+        "learning_rate": 0.018259606560465866,
+        "subsample": 0.6021247508597581,
+        "colsample_bytree": 0.8454565642350076
+      }
+    }
+  },
+  "winning_algorithm": "RandomForest",
+  "winning_macro_f1": 0.9725839167702676,
+  "confusion_matrix_summary": {
+    "confusion_matrix": [
+      [
+        111,
+        8,
+        0
+      ],
+      [
+        1,
+        520,
+        0
+      ],
+      [
+        1,
+        5,
+        113
+      ]
+    ],
+    "class_order": [
+      "Low",
+      "Medium",
+      "High"
+    ],
+    "high_risk_missed_as_low": 1,
+    "total_true_high_risk": 119
+  },
+  "mean_data_confidence": 0.7179875,
+  "promoted": false,
+  "promotion_reason": "Backend DB unreachable (Colab/local-only mode) \u2014 artifacts saved locally for manual sync.",
+  "db_sync_mode": "local-only"
+}

@@ -1,0 +1,30 @@
+services:
+  db:
+    image: postgis/postgis:15-3.3
+    container_name: neerniti_db
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER:-neerniti_admin}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-neerniti_local_dev_password}
+      POSTGRES_DB: ${POSTGRES_DB:-neerniti_db}
+    ports:
+      - "5432:5432"
+    volumes:
+      - neerniti_db_data:/var/lib/postgresql/data
+    restart: unless-stopped
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: neerniti_frontend
+    ports:
+      - "3000:3000"
+    environment:
+      - NEXT_PUBLIC_API_BASE=http://localhost:8000/api/v1
+      - NEXT_PUBLIC_WS_URL=http://localhost:8000
+    depends_on:
+      - db
+    restart: unless-stopped
+
+volumes:
+  neerniti_db_data:

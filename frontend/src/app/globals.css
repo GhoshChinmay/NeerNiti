@@ -1,0 +1,292 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 222.2 84% 4.9%;
+    --foreground: 210 40% 98%;
+  }
+}
+
+html, body { margin: 0; padding: 0; }
+
+/* Custom Scrollbars */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: rgba(15, 23, 42, 0.6);
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(51, 65, 85, 0.8);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(71, 85, 105, 1);
+}
+
+/* Leaflet Map overrides for dark mode blending */
+.leaflet-container {
+  width: 100% !important;
+  height: 100% !important;
+  background-color: #020617 !important;
+}
+
+.leaflet-popup-content-wrapper {
+  background: rgba(15, 23, 42, 0.95) !important;
+  color: #f8fafc !important;
+  border: 1px solid rgba(51, 65, 85, 0.8) !important;
+  border-radius: 12px !important;
+}
+
+.leaflet-popup-tip {
+  background: rgba(15, 23, 42, 0.95) !important;
+}
+
+      /* Kinetic Text Shimmer & Visual Gradients */
+      @keyframes textShimmer {
+        0%, 100% {
+          background-position: 0% 50%;
+        }
+        50% {
+          background-position: 100% 50%;
+        }
+      }
+  
+      @keyframes fadeInUp {
+        from {
+          opacity: 0;
+          transform: translateY(28px);
+        }
+        to {
+          opacity: 1;
+          transform: translateY(0);
+        }
+      }
+  
+      @keyframes floatSoft {
+        0%, 100% {
+          transform: translateY(0);
+        }
+        50% {
+          transform: translateY(-5px);
+        }
+      }
+  
+      .hero-gradient-text {
+        background: linear-gradient(135deg, #0284c7 0%, #00f2fe 30%, #0369a1 70%, #059669 100%);
+        background-size: 250% 250%;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        animation: textShimmer 7s ease infinite;
+      }
+  
+      .fade-up-enter {
+        animation: fadeInUp 0.9s cubic-bezier(0.16, 1, 0.3, 1) both;
+      }
+  
+      /* Aspen Scroll Reveal Engine */
+      .reveal-item {
+        opacity: 0;
+        transform: translateY(26px);
+        transition: opacity 0.8s cubic-bezier(0.16, 1, 0.3, 1), transform 0.8s cubic-bezier(0.16, 1, 0.3, 1);
+        will-change: opacity, transform;
+      }
+      .reveal-item.revealed {
+        opacity: 1;
+        transform: translateY(0);
+      }
+  
+      .reveal-badge {
+        opacity: 0;
+        transform: translateX(-16px);
+        transition: opacity 0.6s cubic-bezier(0.16, 1, 0.3, 1), transform 0.6s cubic-bezier(0.16, 1, 0.3, 1);
+      }
+      .revealed .reveal-badge {
+        opacity: 1;
+        transform: translateX(0);
+      }
+  
+      .headline-accent {
+        position: relative;
+        display: inline-block;
+      }
+      .headline-accent::after {
+        content: '';
+        position: absolute;
+        bottom: -4px;
+        left: 0;
+        width: 0%;
+        height: 3px;
+        background: linear-gradient(90deg, #0284c7, #00f2fe, #059669);
+        border-radius: 9999px;
+        transition: width 1s cubic-bezier(0.16, 1, 0.3, 1) 0.3s;
+      }
+      .revealed .headline-accent::after {
+        width: 100%;
+      }
+  
+      /* Aspen Masked Split-Line Reveal */
+      .split-line-wrapper {
+        display: inline-block;
+        overflow: hidden;
+        vertical-align: bottom;
+        padding-bottom: 0.12em;
+      }
+      .split-line-inner {
+        display: inline-block;
+        transform: translateY(115%);
+        transition: transform 1.05s cubic-bezier(0.16, 1, 0.3, 1);
+        will-change: transform;
+      }
+      .revealed .split-line-inner,
+      .split-line-active .split-line-inner {
+        transform: translateY(0%);
+      }
+  
+      /* Aspen Rolling Vertical Slot-Machine Counter Strip */
+      .slot-counter {
+        display: inline-flex;
+        align-items: baseline;
+        font-variant-numeric: tabular-nums;
+        overflow: hidden;
+        line-height: 1;
+      }
+      .slot-column {
+        position: relative;
+        display: inline-flex;
+        flex-direction: column;
+        height: 1.15em;
+        overflow: hidden;
+        vertical-align: baseline;
+      }
+      .slot-ribbon {
+        display: flex;
+        flex-direction: column;
+        transform: translateY(0);
+        transition: transform 1.9s cubic-bezier(0.16, 1, 0.3, 1);
+        will-change: transform;
+      }
+      .slot-digit {
+        height: 1.15em;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        line-height: 1.15em;
+      }
+      .slot-static {
+        display: inline-block;
+        line-height: 1.15em;
+      }
+  
+      /* Aspen Magnetic / Sliding Arrow Pill Buttons */
+      .aspen-pill-btn {
+        position: relative;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        gap: 0.5rem;
+        border-radius: 9999px;
+        transition: all 0.35s cubic-bezier(0.16, 1, 0.3, 1);
+        overflow: hidden;
+      }
+      .aspen-pill-btn:hover {
+        transform: translateY(-2px);
+      }
+      .aspen-pill-arrow-wrap {
+        position: relative;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        width: 1.25rem;
+        height: 1.25rem;
+        overflow: hidden;
+      }
+      .aspen-pill-arrow-primary {
+        position: absolute;
+        transition: transform 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+      }
+      .aspen-pill-arrow-clone {
+        position: absolute;
+        transform: translate(-150%, 150%);
+        transition: transform 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+      }
+      .aspen-pill-btn:hover .aspen-pill-arrow-primary {
+        transform: translate(150%, -150%);
+      }
+      .aspen-pill-btn:hover .aspen-pill-arrow-clone {
+        transform: translate(0, 0);
+      }
+  
+      /* Aspen Infinite Marquee Ribbon */
+      @keyframes marqueeScroll {
+        0% {
+          transform: translateX(0);
+        }
+        100% {
+          transform: translateX(-50%);
+        }
+      }
+      .marquee-track {
+        display: flex;
+        width: max-content;
+        animation: marqueeScroll 34s linear infinite;
+      }
+      .marquee-track:hover {
+        animation-play-state: paused;
+      }
+  
+      /* Glass Panels & Aspen Modular Card Glow */
+      .glass-card {
+        background: rgba(255, 255, 255, 0.88);
+        backdrop-filter: blur(14px);
+        -webkit-backdrop-filter: blur(14px);
+        border: 1px solid rgba(226, 232, 240, 0.9);
+        box-shadow: 0 4px 20px -2px rgba(15, 23, 42, 0.04), 0 2px 6px -1px rgba(15, 23, 42, 0.02);
+      }
+      .glass-card:hover {
+        background: rgba(255, 255, 255, 0.98);
+        border-color: rgba(186, 230, 253, 0.95);
+        box-shadow: 0 14px 34px -4px rgba(2, 132, 199, 0.12), 0 4px 12px -2px rgba(15, 23, 42, 0.03);
+      }
+  
+      /* Aspen Spotlight Glow Card */
+      .aspen-modular-card {
+        position: relative;
+        background: #ffffff;
+        border: 1px solid #e2e8f0;
+        border-radius: 1.25rem;
+        transition: all 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+      }
+      .aspen-modular-card::before {
+        content: '';
+        position: absolute;
+        inset: -1px;
+        border-radius: inherit;
+        padding: 1px;
+        background: linear-gradient(135deg, rgba(2, 132, 199, 0.4), rgba(5, 150, 105, 0.2), transparent 70%);
+        -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+        mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+        -webkit-mask-composite: xor;
+        mask-composite: exclude;
+        opacity: 0;
+        transition: opacity 0.4s ease;
+        pointer-events: none;
+      }
+      .aspen-modular-card:hover::before {
+        opacity: 1;
+      }
+      .aspen-modular-card:hover {
+        transform: translateY(-4px);
+        box-shadow: 0 20px 40px -12px rgba(2, 132, 199, 0.12), 0 4px 12px -2px rgba(15, 23, 42, 0.04);
+        border-color: #cbd5e1;
+      }
+  
+      .kinetic-float {
+        animation: floatSoft 4s ease-in-out infinite;
+      }

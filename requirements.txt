@@ -1,0 +1,45 @@
+# ==============================================================================
+# NeerNiti Core Requirements
+# Verified & Tested on Python 3.11.x
+# ==============================================================================
+
+# Web Framework & ASGI Server
+fastapi==0.115.12
+uvicorn[standard]==0.34.2
+pydantic==2.12.0
+pydantic-settings==2.11.0
+python-multipart==0.0.20
+
+# Database & Spatial Extensions
+sqlalchemy==2.0.44
+geoalchemy2==0.20.0
+psycopg2-binary==2.9.12
+alembic==1.17.0
+shapely==2.1.2
+
+# Real-Time WebSockets
+python-socketio==5.16.4
+python-engineio==4.13.5
+
+# Configuration & Utilities
+python-dotenv==1.1.0
+requests==2.34.2
+httpx==0.28.1
+
+# Machine Learning & Scientific Computing
+numpy==2.2.5
+pandas==3.0.5
+scipy==1.17.1
+scikit-learn==1.6.1
+catboost==1.2.8
+xgboost==3.2.0
+shap==0.51.0
+joblib==1.4.2
+
+# Deep Learning (Bi-LSTM Verification Engine)
+tensorflow==2.21.0
+
+# Geospatial Telemetry & Earth Observation
+earthengine-api==1.7.43
+google-api-python-client==2.193.0
+google-auth==2.49.0

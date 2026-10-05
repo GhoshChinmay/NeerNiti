@@ -1,0 +1,18 @@
+{
+  "feature_order": [
+    "dist_to_farmland_m",
+    "dist_to_industrial_m",
+    "dist_to_sewage_line_m",
+    "population_density",
+    "lu_agricultural",
+    "lu_barren",
+    "lu_forest",
+    "lu_industrial",
+    "lu_residential"
+  ],
+  "class_order": [
+    "Low",
+    "Medium",
+    "High"
+  ]
+}

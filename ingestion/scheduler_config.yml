@@ -1,0 +1,56 @@
+# NeerNiti — Data Ingestion & Refresh Scheduler Configuration
+# Defines cadence, source endpoints, and retry policies for external satellite & ground telemetry
+
+version: "1.0"
+
+jobs:
+  - id: india_wris_sync
+    name: "India-WRIS / CGWB WIMS Ground-Truth Well Sync"
+    source: "India-WRIS"
+    frequency: "daily"
+    cron: "0 2 * * *" # 02:00 UTC daily
+    script: "ingestion/fetch_india_wris.py"
+    change_detection: "timestamp_hash"
+    retry:
+      max_attempts: 3
+      backoff_sec: 60
+
+  - id: gee_satellite_refresh
+    name: "Google Earth Engine Satellite Composites (Sentinel-1/2, Landsat, SRTM, MODIS)"
+    source: "Google Earth Engine"
+    frequency: "weekly"
+    cron: "0 3 * * 0" # 03:00 UTC every Sunday
+    script: "ingestion/fetch_gee_layers.py"
+    cache_policy: "gee_asset_or_postgis"
+    retry:
+      max_attempts: 2
+      backoff_sec: 300
+
+  - id: chirps_rainfall_refresh
+    name: "CHIRPS Monthly Precipitation Data Sync"
+    source: "CHIRPS (UCSB/CHC)"
+    frequency: "monthly"
+    cron: "0 4 1 * *" # 04:00 UTC on the 1st of every month
+    script: "ingestion/fetch_chirps.py"
+    retry:
+      max_attempts: 2
+      backoff_sec: 120
+
+  - id: grace_fo_storage_refresh
+    name: "NASA/JPL GRACE-FO Terrestrial Water Storage Anomaly"
+    source: "NASA/JPL"
+    frequency: "monthly"
+    cron: "0 5 1 * *" # 05:00 UTC on the 1st of every month
+    script: "ingestion/fetch_grace_fo.py"
+    retry:
+      max_attempts: 2
+      backoff_sec: 120
+
+  - id: verification_recheck
+    name: "Post-Ingestion Structure Recharge Verification Check"
+    source: "Internal Module 3 (Bi-LSTM Engine)"
+    frequency: "daily"
+    cron: "30 2 * * *" # Runs immediately after daily India-WRIS sync
+    script: "backend/app/ml/run_verification.py"
+    retry:
+      max_attempts: 1

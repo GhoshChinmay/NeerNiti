@@ -1,0 +1,16 @@
+{
+  "name": "NeerNiti Groundwater Dashboard",
+  "short_name": "NeerNiti",
+  "description": "AI-driven decision support system for groundwater management and recharge site recommendation",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#10b981",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
