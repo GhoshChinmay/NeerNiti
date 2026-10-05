@@ -1,4 +1,4 @@
-# 🌊 NeerNiti (नीर नीति) — AI-Powered Groundwater Recharge Platform
+# 🌊 NeerNiti: An End-to-End Satellite Telemetry and Deep Learning Platform for Sustainable Regional Groundwater Management
 ### *Intelligent Decisions. Verifiable Outcomes. Sustainable Future.*
 
 <p align="center">
